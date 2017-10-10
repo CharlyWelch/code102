@@ -6,3 +6,10 @@
     - using variables in mathematical functions to maintain relative pos. when moving drawings
 - back ticks (`) around text puts it in monospace so it looks like code
  
+ # Git Commits
+
+ - `git status`
+ - `git add <file name>`
+ - `git commit -m <message>`
+ - `git push origin master`
+
